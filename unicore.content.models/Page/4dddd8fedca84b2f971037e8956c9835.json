@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0583bd7cd510403cb72a23aa96e89c8a", 
+    "ba770cc14afd4309aedabbb9deeeb65b"
+  ], 
   "id": null, 
   "content": "PODE SER QUE N\u00c3O. Se a pessoa estiver em tratamento eficaz h\u00e1 mais de seis meses e os exames peri\u00f3dicos indicam que a carga viral est\u00e1 indetect\u00e1vel ou pr\u00f3xima de zero,  \u00e9 muito dif\u00edcil ela transmitir o HIV, mesmo sem camisinha. Tamb\u00e9m \u00e9 necess\u00e1rio que nenhum dos parceiros tenha feridas genitais provocadas por outras DSTs. Neste caso a redu\u00e7\u00e3o da transmiss\u00e3o observada \u00e9 muito alta, estimada em 96%. Entretanto, a camisinha continua sendo a melhor forma de preven\u00e7\u00e3o. ", 
   "source": null, 
