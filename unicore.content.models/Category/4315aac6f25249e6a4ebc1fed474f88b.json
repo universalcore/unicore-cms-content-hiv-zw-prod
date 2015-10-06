@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "4315aac6f25249e6a4ebc1fed474f88b", 
   "language": "por_PT", 
-  "title": "AGIR", 
+  "title": "Agir", 
   "image": null, 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "agir", 
