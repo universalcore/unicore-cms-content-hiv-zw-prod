@@ -6,12 +6,12 @@
   "primary_category": "c34db1ff79b443008e56a7b6e8b2097b", 
   "created_at": "2015-08-14T16:12:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-14T15:54:13.556141+00:00", 
+  "modified_at": "2015-10-06T19:27:34.705226+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": "186781f0325d4900a7d2624a325c1754", 
   "published": null, 
-  "position": 14, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ter-o-hiv-significa-que-voce-vai-morrer", 
   "uuid": "ba770cc14afd4309aedabbb9deeeb65b"
