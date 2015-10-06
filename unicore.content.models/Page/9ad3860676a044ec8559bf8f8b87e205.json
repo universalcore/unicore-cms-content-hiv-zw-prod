@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "28244d6c067c44f9b7dd7394d1a50e8e"
+  ], 
   "id": null, 
   "content": "Answer: **ABSOLUTELY!** Everyone should regularly get tested for HIV. In fact, many people who are living with HIV do not know their status. Testing is the first step to living a healthy, happy and long life. Keep in mind that even if you have been tested recently, if you have had sex or shared needles since your last test, your status could have changed. \r\n\r\nHere are places close to you where you can get tested: [LOCAL INFO].\r\n \r\n**Next Question:**", 
   "source": null, 
