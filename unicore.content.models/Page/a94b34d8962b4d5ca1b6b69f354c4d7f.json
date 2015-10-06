@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "\u00ab J\u2019ai peut-\u00eatre le VIH. Que faire ? \u00bb", 
   "primary_category": "3e0be72528874893a291c925b235e4c5", 
-  "created_at": "2015-10-06T19:57:53.629257+00:00", 
+  "created_at": "2015-10-06T19:57:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-10-06T19:57:53.629563+00:00", 
+  "modified_at": "2015-10-06T21:22:30.913743+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "ae5ada5fa9cf4f24becffbdb9069a2d6", 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "jai-peut-etre-le-vih-que-faire", 
   "uuid": "a94b34d8962b4d5ca1b6b69f354c4d7f"
