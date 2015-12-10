@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [ESPERAR HASTA QUE TE SIENTAS MAL] o [HACERTE LA PRUEBA]\r\n", 
+  "language": "spa_ES", 
+  "title": "Es posible que haya contra\u00eddo el VIH. \u00bfQu\u00e9 debo hacer?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2015-10-21T20:39:39+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-23T10:49:40.573610+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b13c5798972047c98a29424e55ddb803"
+  ], 
+  "id": null, 
+  "content": "Respuesta: **HACERTE LA PRUEBA.** Si piensas que puedes haber contra\u00eddo el VIH, lo mejor que puedes hacer es someterte a la prueba para estar seguro. Aunque puede que te d\u00e9 miedo conocer el resultado \u2013 si es positivo o negativo \u2013 es el primer paso para proteger tu salud. Cuanto antes conozcas el resultado, mejor. \r\n\r\nEn el centro en el que te realicen la prueba tambi\u00e9n te aconsejar\u00e1n las medidas que debes tomar para no contagiarte o lo que debes hacer si el resultado ha sido positivo.\r\n\r\nAqu\u00ed se indican algunos centros pr\u00f3ximos a tu domicilio donde puedes hacerte la prueba: [INFO. LOCAL]  \r\n**Pregunta siguiente:**   \r\n\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "1ca958f955d14e8dafade863cd47751b", 
+  "published": null, 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-posible-que-haya-contraido-el-vih-que-debo-hacer", 
+  "uuid": "6a162e4ac22a402e891e6ddcb407484d"
+}

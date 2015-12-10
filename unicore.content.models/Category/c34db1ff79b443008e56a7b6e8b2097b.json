@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c34db1ff79b443008e56a7b6e8b2097b", 
+  "language": "por_PT", 
+  "title": "Sexo Seguro", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "sexo-seguro", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

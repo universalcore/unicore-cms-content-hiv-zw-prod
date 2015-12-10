@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [YES] or [NO]", 
+  "language": "eng_GB", 
+  "title": "Does having HIV mean you are going to die?", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2015-09-14T04:26:15+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-09-14T15:46:04.830754+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "307bd7ba4de244ab94ff44ad79fad369"
+  ], 
+  "id": null, 
+  "content": "Answer: **NO.** HIV is NOT a death sentence. We have come very far since HIV was first discovered in the 1980s. Through medication, called antiretroviral therapy, people living with HIV can live long, happy and healthy lives. When taking these drugs, people living with HIV can engage in sex and can even have children without transmitting HIV.\r\n \r\nFor more information on treatments, visit: *[LOCAL INFO]*\r\n\r\n**Next Question:**", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "3687da9f17864971ad4d1c7e0c38000c", 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "does-having-hiv-mean-you-are-going-die", 
+  "uuid": "28244d6c067c44f9b7dd7394d1a50e8e"
+}

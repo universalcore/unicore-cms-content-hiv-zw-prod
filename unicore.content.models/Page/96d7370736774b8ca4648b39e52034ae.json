@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Conectar com outros adolescentes que vivem e convivem com o HIV/Aids", 
+  "language": "por_PT", 
+  "title": "Rede Nacional de Jovens vivendo com HIV/aids ", 
+  "primary_category": "4315aac6f25249e6a4ebc1fed474f88b", 
+  "created_at": "2015-08-27T18:00:55+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-10-06T19:27:25.515902+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "7a7ad41422b841a0a74c93cfd736c9c0", 
+    "ff92f1d7e57d414b9ffee5972b3e89a7"
+  ], 
+  "id": null, 
+  "content": "A REDE NACIONAL DE ADOLESCENTES E JOVENS VIVENDO COM HIV/AIDS (RNAJVHA) \u00e9 uma organiza\u00e7\u00e3o nacional, sem v\u00ednculo pol\u00edtico partid\u00e1rio e religioso, constitu\u00edda por adolescentes e jovens entre 15 e 29 anos, com sorologia positiva para o v\u00edrus HIV, atuando na inclus\u00e3o social, na promo\u00e7\u00e3o do fortalecimento biopsicossocial e do protagonismo destes, independente do g\u00eanero, orienta\u00e7\u00e3o sexual, credo, ra\u00e7a, cor, etnia ou nacionalidade.\r\n \r\nMais informa\u00e7\u00f5es: http://redenacionaldejovens.blogspot.com.br/", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "rede-nacional-de-jovens-vivendo-com-hivaids", 
+  "uuid": "96d7370736774b8ca4648b39e52034ae"
+}

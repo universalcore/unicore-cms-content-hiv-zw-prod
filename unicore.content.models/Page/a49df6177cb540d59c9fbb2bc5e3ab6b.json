@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Escolha a sua resposta: [SIM] ou [N\u00c3O]", 
+  "language": "por_PT", 
+  "title": "\u00c9 verdade que o grau de risco de infec\u00e7\u00e3o por HIV e outras DSTs varia de acordo com o tipo de rela\u00e7\u00e3o sexual que voc\u00ea teve?", 
+  "primary_category": "c34db1ff79b443008e56a7b6e8b2097b", 
+  "created_at": "2015-08-14T16:07:03+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-06T19:27:35.045428+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a7c251082bcd479d9ae2c37f30b5238a", 
+    "f3b62a6ea9104c529de33269857b6141"
+  ], 
+  "id": null, 
+  "content": "SIM. Os tipos mais comuns de rela\u00e7\u00f5es sexuais s\u00e3o: oral, vaginal e anal. O sexo anal \u00e9 o que oferece o maior risco de infec\u00e7\u00e3o pelo HIV e outras doen\u00e7as como s\u00edfilis, gonorreia e Hepatite B e C, por ser uma regi\u00e3o mais propensa ao sangramento, de absor\u00e7\u00e3o de flu\u00eddos e maior concentra\u00e7\u00e3o de micro-organismos como bact\u00e9rias.  Por isso, no sexo anal o parceiro passivo est\u00e1 mais vulner\u00e1vel a infec\u00e7\u00f5es, do que o parceiro ativo. No caso do sexo oral o risco de transmiss\u00e3o de doen\u00e7as \u00e9 considerado extremamente baixo. \r\n \r\n\u00c9 importante lembrar que o HIV N\u00c3O PODE ser transmitido atrav\u00e9s do beijo. Especificamente, o HIV pode ser transmitido atrav\u00e9s de: 1) sangue, 2) s\u00eamen, 3) fluido vaginal, 4) fluidos anais e 5) leite materno. O HIV \u00e9 mais comumente transmitido atrav\u00e9s de rela\u00e7\u00e3o sexual com uma pessoa vivendo com o HIV; atrav\u00e9s do compartilhamento de seringas durante o uso de drogas; e de m\u00e3e para filho durante a gravidez, o parto ou o per\u00edodo de amamenta\u00e7\u00e3o. \r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "bda15e842b3f4329a03eec2c3cb5c495", 
+  "published": null, 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "e-verdade-que-o-grau-de-risco-de-infeccao-por-hiv-e-outras-dsts-varia-de-acordo-com-o-tipo-de-relacao-sexual-que-voce-teve", 
+  "uuid": "a49df6177cb540d59c9fbb2bc5e3ab6b"
+}

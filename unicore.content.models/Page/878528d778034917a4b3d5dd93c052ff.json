@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [S\u00cd] o [NO]", 
+  "language": "spa_ES", 
+  "title": "\u00bfSon habituales las relaciones sexuales forzadas?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2015-10-21T21:02:54+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-23T10:48:20.946790+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Respuesta: **SI**. Lamentablemente, los adolescentes tienen cada vez m\u00e1s experiencias sexuales no deseadas. Las relaciones sexuales no deseadas son siempre negativas. Mantener relaciones sexuales forzadas es una experiencia terrible para cualquiera y puede tener efectos a largo plazo dif\u00edciles de predecir (tanto f\u00edsicos como ps\u00edquicos). Si conoces a alguna persona que se haya visto obligado a mantener relaciones sexuales no deseadas, seguro que necesita tu ayuda ahora m\u00e1s que nunca. Escuchar es una buena manera de comenzar. An\u00edmala a hablar con un medico o una enfermera, que le podr\u00e1n proporcionar toda la ayuda m\u00e9dica necesaria. Cont\u00e1rselo a un adulto de confianza es otra medida positiva posible.\r\n \r\n**Pregunta siguiente:**", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "son-habituales-las-relaciones-sexuales-forzadas", 
+  "uuid": "878528d778034917a4b3d5dd93c052ff"
+}

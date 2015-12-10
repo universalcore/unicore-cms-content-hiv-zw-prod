@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [WAIT UNTIL YOU FEEL SICK] or [GET TESTED]", 
+  "language": "eng_GB", 
+  "title": "I might have HIV. What now?", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2015-09-13T23:29:22+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-14T15:38:54.567825+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "34b6ac6bcc3044c1a6b8ac8abd7371cd"
+  ], 
+  "id": null, 
+  "content": "Answer: **GET TESTED, my friend!** If you think you might have HIV, the best thing to do is get tested to know for sure. While it can be scary, knowing your status - whether it is positive or negative - is the first step to being healthy. The earlier you know your status, the better too. \r\n\r\nThe testing centre will also provide counselling about how to stay negative or what to do if you are positive.\r\n\r\nHere are the places close to you that offer testing: *[LOCAL INFO]*\r\n\r\n**Next Question:**", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "f54a3798c0ad495cb8c42037bdcabeb5", 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "i-might-have-hiv-what-now", 
+  "uuid": "547a999cdaac47298e527ab32eb3d3d1"
+}

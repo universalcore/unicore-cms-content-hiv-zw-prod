@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [DEPENDS] or [NEVER]", 
+  "language": "eng_GB", 
+  "title": "Can you get HIV and STI\u2019s from kissing?", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2015-09-13T23:24:01+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-14T15:36:56.439525+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "547a999cdaac47298e527ab32eb3d3d1"
+  ], 
+  "id": null, 
+  "content": "Answer: **DEPENDS.** Herpes is the only sexually transmitted infection (STI) that can be passed through kissing. This usually happens when one person has a sore on or around the mouth and then kisses another person.\r\n \r\nHIV CANNOT be transmitted through kissing. Specifically, HIV can be transmitted through: 1) blood, 2) semen, 3) vaginal fluid, 4) rectal fluids and 5) breast milk. HIV is most commonly transmitted through sexual intercourse with a person living with HIV; through sharing needles during drug use; and from mother to child during pregnancy, birth or the breastfeeding period.\r\n \r\n**Next Question:**", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "5ad5bf357d2d4df3b0ffee5a0ebd536a", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-you-get-hiv-and-stis-kissing", 
+  "uuid": "cebd88ebad84409cb912180ef7eaf381"
+}

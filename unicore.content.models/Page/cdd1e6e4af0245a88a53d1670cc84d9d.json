@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [A VECES] o [NO]\r\n", 
+  "language": "spa_ES", 
+  "title": "\u00bfPuedo contraer el VIH por compartir comida?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2015-10-21T21:05:43+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-23T10:48:03.856899+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8a046e611d4d426c9e0007a782b32a18"
+  ], 
+  "id": null, 
+  "content": "Respuesta: **NO, nunca.** El VIH no puede transmitirse compartiendo comidas.\r\n \r\nEl VIH se transmite solo por el contacto con cinco fluidos org\u00e1nicos: 1) la sangre, 2) el semen, 3) el fluido vaginal, 4) los fluidos rectales y 5) la leche materna. Las causas m\u00e1s comunes de transmisi\u00f3n del virus es mantener relaciones sexuales con una persona que vive con el VIH, compartir jeringuillas durante el consumo de drogas y de madre a hijo durante el embarazo, el nacimiento o el per\u00edodo de lactancia. Todos estos m\u00e9todos de transmisi\u00f3n pueden prevenirse. Utilizando un cond\u00f3n durante las relaciones sexuales, utilizando jeringuillas limpias y someti\u00e9ndote a una terapia antirretroviral si vives con el VIH reducir\u00e1s en gran medida la posibilidad de contagio.\r\n \r\n**Pregunta siguiente:**\r\n\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "45ef5e65ec7b422e9ba9166011b9e7e0", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "puedo-contraer-el-vih-por-compartir-comida", 
+  "uuid": "cdd1e6e4af0245a88a53d1670cc84d9d"
+}

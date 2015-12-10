@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [A VECES] o [NO]\r\n", 
+  "language": "spa_ES", 
+  "title": "\u00bfMe puedo quedar embarazada por un beso?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2015-10-21T20:28:54+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-23T10:49:47.206064+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Respuesta: **NO,** no puedes quedarte embarazada solo por un beso. El embarazo \u00fanicamente puede producirse si el esperma se eyacula en el interior de la vagina o en la zona pr\u00f3xima a esta. \r\n\r\n\u00bfC\u00f3mo se produce el embarazo? 1) Durante la ovulaci\u00f3n se expulsa un huevo (c\u00e9lula sexual femenina), 2) que debe ser fertilizado por un esperma (c\u00e9lula sexual masculina).\r\n \r\nCuando un chico y una chica practican sexo vaginal sin protecci\u00f3n se expulsa semen en el interior de la vagina. El semen es un fluido blanco y pegajoso que contiene millones de espermas y que expulsan los varones al eyacular. El esperma viaja desde la vagina hasta las trompas de Falopio. Si la chica ha ovulado recientemente (es decir, si ha liberado un huevo de uno de sus ovarios), el esperma puede unirse al huevo. La uni\u00f3n del esperma y el huevo se denomina fertilizaci\u00f3n.\r\n \r\nSi deseas m\u00e1s informaci\u00f3n sobre el embarazo, consulta [RECURSO LOCAL].\r\n\r\n**Pregunta siguiente:**\r\n\u00bfPuedo contraer el VIH e infecciones de transmisi\u00f3n sexual (ITS) por un beso?\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "996ad3247b5b40d38adf334fc7b9150e", 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "me-puedo-quedar-embarazada-por-un-beso", 
+  "uuid": "10a68fd7b1f84814a9bd3d70271f5f58"
+}

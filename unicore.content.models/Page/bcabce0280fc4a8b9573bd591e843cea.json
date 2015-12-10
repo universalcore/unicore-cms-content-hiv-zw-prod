@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Choisis ta r\u00e9ponse : [PARFOIS] ou [NON]", 
+  "language": "fre_FR", 
+  "title": "Peut-on tomber enceinte en embrassant ?", 
+  "primary_category": "3e0be72528874893a291c925b235e4c5", 
+  "created_at": "2015-10-06T19:45:04+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-06T21:19:39.374018+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "893750234c5b4a9795bf95e0874b8b47"
+  ], 
+  "id": null, 
+  "content": "R\u00e9ponse : **NON**, il n\u2019est pas possible de tomber enceinte juste en embrassant. On ne peut tomber enceinte que si du sperme est \u00e9jacul\u00e9 \u00e0 l\u2019int\u00e9rieur ou \u00e0 c\u00f4t\u00e9 du vagin. \r\n\r\nComment a lieu une grossesse ? 1) Un ovule (la cellule reproductrice femelle) doit \u00eatre lib\u00e9r\u00e9 au moment de l\u2019ovulation, et 2) il doit \u00eatre f\u00e9cond\u00e9 par un spermatozo\u00efde (la cellule reproductrice m\u00e2le).\r\n \r\nLorsqu\u2019un gar\u00e7on et une fille ont des rapports sexuels vaginaux non prot\u00e9g\u00e9s, du sperme est d\u00e9pos\u00e9 dans le vagin. Le sperme est le fluide blanc et collant qui contient des millions de spermatozo\u00efdes qui sortent lorsqu\u2019un gar\u00e7on \u00e9jacule. Ensuite, le sperme circule vers les trompes de Fallope. Si la fille a ovul\u00e9 r\u00e9cemment (expuls\u00e9 un ovule d\u2019un de ses deux ovaires), alors le spermatozo\u00efde peut s\u2019unir \u00e0 l\u2019ovule. L\u2019union du spermatozo\u00efde et de l\u2019ovule s\u2019appelle la f\u00e9condation. \r\n \r\nSi vous voulez en savoir plus sur la grossesse, consultez [RESSOURCE LOCALE].\r\n\r\n**Question suivante :**\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "b8ec65beaebe46fd82e27c2a2b602457", 
+  "published": null, 
+  "position": 12, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "peut-tomber-enceinte-en-embrassant", 
+  "uuid": "bcabce0280fc4a8b9573bd591e843cea"
+}

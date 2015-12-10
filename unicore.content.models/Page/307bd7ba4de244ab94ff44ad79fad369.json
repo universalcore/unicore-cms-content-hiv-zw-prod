@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [TRUE] or [FALSE]", 
+  "language": "eng_GB", 
+  "title": "My friends do drugs. Recreational drugs won\u2019t hurt me.", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2015-09-14T04:19:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-09-14T15:47:03.495958+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "65c64fdf9f7c4dedb520b69df9048ca7"
+  ], 
+  "id": null, 
+  "content": "Answer: **FALSE!** Drugs can negatively affect your life for a long time, and possibly permanently. Think twice before joining your friends. If it\u2019s not possible to spend time with them without doing drugs, it is probably best for you to consider meeting new friends or starting new hobbies.\r\n \r\nCheck out these sports groups and activity clubs near you: *[LOCAL INFO]*\r\n \r\n**Related Info:**", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "1c9bc9e463b34c33b5acebe69761299f", 
+  "published": null, 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-friends-do-drugs-recreational-drugs-wont-hurt-me", 
+  "uuid": "307bd7ba4de244ab94ff44ad79fad369"
+}

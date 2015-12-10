@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "f2a34fe05afe4c6991e3fb1e50569035", 
+  "language": "por_PT", 
+  "title": "Sobre ALL IN", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "sobre-all", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

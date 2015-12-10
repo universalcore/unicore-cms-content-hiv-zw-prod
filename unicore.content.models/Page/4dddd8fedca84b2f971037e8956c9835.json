@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Escolha a sua resposta: [SIM, TOTALMENTE] ou [PODE SER QUE N\u00c3O]", 
+  "language": "por_PT", 
+  "title": "Eu tenho HIV, fa\u00e7o tratamento e com carga viral indetect\u00e1vel (quantidade de v\u00edrus circulando no sangue). Se eu transar sem camisinha transmitirei o v\u00edrus?", 
+  "primary_category": "c34db1ff79b443008e56a7b6e8b2097b", 
+  "created_at": "2015-08-14T16:10:11+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-10-06T19:27:34.825880+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "0583bd7cd510403cb72a23aa96e89c8a", 
+    "ba770cc14afd4309aedabbb9deeeb65b"
+  ], 
+  "id": null, 
+  "content": "PODE SER QUE N\u00c3O. Se a pessoa estiver em tratamento eficaz h\u00e1 mais de seis meses e os exames peri\u00f3dicos indicam que a carga viral est\u00e1 indetect\u00e1vel ou pr\u00f3xima de zero,  \u00e9 muito dif\u00edcil ela transmitir o HIV, mesmo sem camisinha. Tamb\u00e9m \u00e9 necess\u00e1rio que nenhum dos parceiros tenha feridas genitais provocadas por outras DSTs. Neste caso a redu\u00e7\u00e3o da transmiss\u00e3o observada \u00e9 muito alta, estimada em 96%. Entretanto, a camisinha continua sendo a melhor forma de preven\u00e7\u00e3o. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0a17aa5017954fb1bf9bc48244359fd0", 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "eu-tenho-hiv-faco-tratamento-e-tenho-carga-viral-indetectavel-se-eu-transar-sem-camisinha-transmitirei-o-virus", 
+  "uuid": "4dddd8fedca84b2f971037e8956c9835"
+}
