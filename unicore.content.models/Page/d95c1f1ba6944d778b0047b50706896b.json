@@ -1,24 +1,24 @@
 {
   "subtitle": "", 
-  "description": "Get free HIV testing & counselling today", 
+  "description": "Get free HIV testing & counselling today!", 
   "language": "eng_GB", 
-  "title": "[Local HIV Testing & Counselling Hotline]", 
+  "title": "Local HIV Testing & Counselling Hotline from Zvandiri is 116!", 
   "primary_category": "26b97ceb2888441eb3d18fb46aa83578", 
   "created_at": "2015-09-14T04:32:31+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-14T15:22:09.600210+00:00", 
+  "modified_at": "2016-02-05T07:38:06.322691+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "93e43c57968341b88af478cab8699bfe"
   ], 
   "id": null, 
-  "content": "[Brief description of services] Call or text: [contact info].\r\n\r\n**Related Info:**", 
+  "content": " \r\nZvandiri Call : 116\r\n\r\n**Related Info:**", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
